@@ -1,0 +1,7941 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="CTA_RailStations">
+  <name>CTA_RailStations</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>CTA_RailStations</name>
+  <Snippet></Snippet>
+    <Placemark>
+      <name>Cicero-Douglas</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>420</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Cicero-Douglas</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Pink</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>2133 S. 48th Court</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40420</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.745342,41.851925,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cicero-Lake</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>480</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Cicero-Lake</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Green Line (Lake)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>4800 W. Lake Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40480</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.744698,41.886519,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Francisco</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>870</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Francisco</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Brown Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>4648 N. Francisco Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40870</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.701656,41.966147,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Addison-Ravenswood</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1440</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Addison-Ravenswood</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Brown Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>1818-20 W. Addison Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41440</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.674736,41.947029,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Howard</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>900</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Howard</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Red, Yellow, Purple, Evanston Express</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>1649 W. Howard Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40900</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.672892,42.019063,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Halsted/63rd</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>940</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Halsted/63rd</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Green Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>6321-25 S. Halsted Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40940</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.644023,41.779028,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ashland-Midway</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1060</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Ashland-Midway</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Orange Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>3011 S. Ashland Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41060</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.665312,41.839356,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Belmont-North Main</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1320</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Belmont-North Main</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Red, Brown, Purple (Express)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>945 W. Belmont Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41320</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.653380,41.939751,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>87th</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1430</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>87th</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Red Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>15 W. 87th Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41430</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.624753,41.735371,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>79th</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>240</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>79th</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Red Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>15 W. 79th Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40240</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.625178,41.750412,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Garfield-South Elevated</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>510</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Garfield-South Elevated</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Green Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>320 E. Garfield Boulevard</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40510</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.618324,41.795177,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>King Drive</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1140</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>King Drive</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Green Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>400 E. 63rd Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41140</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.615546,41.780130,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>51st</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>130</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>51st</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Green Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>314 E. 51st Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40130</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.618502,41.802092,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Quincy/Wells</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>40</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Quincy/Wells</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Brown, Orange, Pink, Purple (Express)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>220 S. Wells Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40040</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.633740,41.878723,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LaSalle/Van Buren</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>160</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>LaSalle/Van Buren</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Brown, Orange, Pink, Purple (Express)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>121 W. Van Buren Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40160</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.631734,41.876855,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LaSalle</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1340</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>LaSalle</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Blue Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>150 W. Congress Parkway</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41340</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.631722,41.875568,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Washington/Dearborn</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>370</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Washington/Dearborn</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Blue Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>19 N. Dearborn</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40370</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.629440,41.883164,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lake/State</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1660</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Lake/State</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Red Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>188 N. State</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41660</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.627813,41.884809,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Austin-Congress</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>10</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Austin-Congress</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Blue Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>1050 S. Austin Blvd</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40010</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.776785,41.870886,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Midway Airport</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>930</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Midway Airport</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Orange Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>4612 W. 59th Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40930</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.737956,41.786614,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pulaski-Douglas</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>150</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Pulaski-Douglas</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Pink</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>2005 S. Pulaski Road</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40150</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.724327,41.853857,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Western-Midway</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>310</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Western-Midway</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Orange Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>4901 S. Western Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40310</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.684065,41.804684,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Montrose-Ravenswood</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1500</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Montrose-Ravenswood</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Brown Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>1814-16 W. Montrose Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41500</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.675165,41.961752,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Linden</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1050</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Linden</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Purple Line, Evanston Express</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>349 W. Linden Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41050</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.690730,42.073153,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Racine</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>470</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Racine</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Blue Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>430 S. Racine Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40470</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.659456,41.875886,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>UIC-Halsted</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>350</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>UIC-Halsted</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Blue Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>430 S. Halsted Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40350</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.649642,41.875516,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sheridan</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>80</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Sheridan</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Red Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>3940 N. Sheridan Road</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40080</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.654929,41.953775,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Addison-North Main</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1420</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Addison-North Main</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Red Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>940 W. Addison Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41420</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.653626,41.947428,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Thorndale</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>880</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Thorndale</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Red Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>1118 W. Thorndale Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40880</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.659076,41.990259,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Clark/Lake</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>380</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Clark/Lake</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Brown, Orange, Pink, Purple (Express), Green, Blue</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>100 W. Lake</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40380</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.630886,41.885737,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Monroe/State</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1090</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Monroe/State</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Red Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>26 S. State</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41090</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.627696,41.880745,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Roosevelt/State</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1400</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Roosevelt/State</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Red Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>1167 S. State Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41400</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.627402,41.867368,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cicero-Congress</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>970</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Cicero-Congress</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Blue Line (Congress)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>720 S. Cicero Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40970</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.745172,41.871608,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jefferson Park</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1280</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Jefferson Park</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Blue Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>4917 N. Milwaukee Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41280</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.760892,41.970634,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dempster-Skokie</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>140</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Dempster-Skokie</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Yellow Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>5001 W. Dempster Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40140</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.751919,42.038951,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Central Park</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>780</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Central Park</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Pink</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>1915 S. Central Park Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40780</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.714880,41.853992,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pulaski-Lake</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>30</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Pulaski-Lake</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Green Line (Lake)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>4000 W. Lake Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40030</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.725404,41.885412,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Logan Square</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1020</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Logan Square</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Blue Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>2620 N. Milwaukee Av</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41020</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.708541,41.929728,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Addison-O'Hare</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1240</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Addison-O'Hare</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Blue Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>3622 W. Addison Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41240</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.719099,41.947360,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>California-Douglas</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>440</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>California-Douglas</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Pink</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>2011 S. California Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40440</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.694823,41.854280,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Foster</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>520</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Foster</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Purple Line, Evanston Express</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>900 W. Foster Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40520</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.683560,42.054160,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Main</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>270</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Main</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Purple Line, Evanston Express</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>836 N. Chicago Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40270</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.679538,42.033456,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Noyes</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>400</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Noyes</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Purple Line, Evanston Express</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>901 W. Noyes Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40400</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.683337,42.058282,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wellington</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1210</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Wellington</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Brown, Purple (Express)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>945 W. Wellington Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41210</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.653266,41.936033,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fullerton</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1220</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Fullerton</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Red, Brown, Purple (Express)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>943  W. Fullerton Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41220</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.652866,41.925051,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Southport</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>360</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Southport</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Brown Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>3411 N. Southport Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40360</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.663610,41.943812,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Argyle</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1200</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Argyle</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Red Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>1118 W. Argyle Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41200</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.658530,41.973453,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Granville</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>760</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Granville</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Red Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>1119 W. Granville Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40760</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.659202,41.993664,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>95th/Dan Ryan</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>450</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>95th/Dan Ryan</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Red Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>14 W. 95th Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40450</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.624415,41.722376,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>47th-Dan Ryan</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1230</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>47th-Dan Ryan</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Red Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>220 W. 47th Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41230</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.631026,41.810338,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sox-35th-Dan Ryan</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>190</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Sox-35th-Dan Ryan</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Red Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>142 W. 35th Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40190</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.630636,41.831191,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Monroe/Dearborn</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>790</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Monroe/Dearborn</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Blue Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>114 S. Dearborn</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40790</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.629378,41.880703,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chicago/Franklin</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>710</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Chicago/Franklin</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Brown, Purple (Express)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>300-02 W. Chicago Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40710</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.635947,41.896774,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Harlem-Congress</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>980</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Harlem-Congress</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Blue Line (Congress)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>701 S. Harlem Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40980</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.806961,41.873490,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kedzie-Homan</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>250</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Kedzie-Homan</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Blue Line (Congress)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>530 S. Kedzie Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40250</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.705978,41.874426,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Western-Douglas</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>740</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Western-Douglas</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Pink</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>2009 S. Western Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40740</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.685179,41.854397,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>California-Lake</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1360</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>California-Lake</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Green Line (Lake)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>2800 W. Lake Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41360</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.696234,41.884220,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Illinois Medical District</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>810</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Illinois Medical District</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Blue Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>430 S. Damen Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40810</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.673946,41.875635,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Irving Park-Ravenswood</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1460</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Irving Park-Ravenswood</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Brown Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>1816-18 W. Irving Park Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41460</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.674956,41.954523,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>South Boulevard</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>840</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>South Boulevard</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Purple Line, Evanston Express</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>601 W. South Boulevard</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40840</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.678329,42.027612,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Central-Evanston</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1250</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Central-Evanston</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Purple Line, Evanston Express</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>1022 W. Central Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41250</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.685617,42.063987,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>North/Clybourn</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>650</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>North/Clybourn</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Red Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>1599 N. Clybourn Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40650</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.649177,41.910655,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sedgwick</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>800</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Sedgwick</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Brown, Purple (Express)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>1536-40 N. Sedgwick Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40800</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.639302,41.910409,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Armitage</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>660</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Armitage</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Brown, Purple (Express)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>944-46 W. Armitage Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40660</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.652644,41.918217,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cermak-Chinatown</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1000</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Cermak-Chinatown</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Red Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>138 W. Cermak Road</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41000</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.630968,41.853206,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Washington/Wells</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>730</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Washington/Wells</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Brown, Orange, Pink, Purple (Express)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>100 N. Wells Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40730</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.633854,41.882695,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Roosevelt/Wabash</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>410</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Roosevelt/Wabash</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Orange &#38;amp; Green Lines</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>22 E. Roosevelt Road</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40410</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.626590,41.867405,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chicago/State</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1450</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Chicago/State</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Red Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>800 N. State Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41450</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.628176,41.896671,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cottage Grove-East 63rd</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>720</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Cottage Grove-East 63rd</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Green Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>800 E. 63rd Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40720</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.605857,41.780309,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rosemont</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>820</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Rosemont</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Blue Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>5801 N. River Road</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40820</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.859388,41.983507,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Montrose-O'Hare</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1330</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Montrose-O'Hare</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Blue Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>4600 W. Montrose Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41330</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.743617,41.961487,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oakton-Skokie</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1680</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Oakton-Skokie</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Yellow Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>4802 W Oakton</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41680</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.747221,42.026244,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kedzie-Douglas</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1040</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Kedzie-Douglas</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Pink</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>1944 S. Kedzie Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41040</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.705428,41.854131,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kedzie-Lake</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1070</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Kedzie-Lake</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Green Line (Lake)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>3200 W. Lake Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41070</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.706155,41.884321,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Irving Park-O'Hare</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>550</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Irving Park-O'Hare</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Blue Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>4131 W. Irving Park Road</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40550</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.729177,41.952940,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kedzie-Ravenswood</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1180</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Kedzie-Ravenswood</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Brown Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>4648 N. Kedzie Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41180</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.708844,41.966093,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>35th/Archer</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>120</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>35th/Archer</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Orange Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>3528 S. Leavitt Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40120</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.680587,41.829560,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Western-Ravenswood</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1480</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Western-Ravenswood</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Brown Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>4645-49 N. Western Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41480</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.688503,41.966250,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Halsted-Midway</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1130</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Halsted-Midway</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Orange Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>2520 S. Archer Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41130</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.648131,41.846901,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Clinton-Congress</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>430</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Clinton-Congress</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Blue Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>426 S. Clinton Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40430</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.640984,41.875539,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chicago/Milwaukee</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1410</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Chicago/Milwaukee</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Blue Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>800 N. Milwaukee Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41410</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.655214,41.896075,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wilson</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>540</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Wilson</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Red Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>4920 N. Broadway Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40540</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.657588,41.964273,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Garfield-Dan Ryan</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1170</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Garfield-Dan Ryan</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Red Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>220 W. Garfield Boulevard</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41170</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.631169,41.795418,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>63rd-Dan Ryan</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>910</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>63rd-Dan Ryan</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Red Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>220 W. 63rd Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40910</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.631000,41.780534,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Indiana</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>300</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Indiana</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Green Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>4003 S. Indiana Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40300</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.621463,41.821815,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Merchandise Mart</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>460</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Merchandise Mart</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Brown, Purple (Express)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>350 N. Wells Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40460</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.633973,41.888968,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jackson/Dearborn</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>70</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Jackson/Dearborn</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Blue Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>328 S. Dearborn</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40070</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.629296,41.878183,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>State/Lake</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>260</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>State/Lake</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Brown, Orange, Pink,  Purple (Express), Green</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>200 N. State Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40260</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.627835,41.885740,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Randolph/Wabash</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>200</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Randolph/Wabash</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Brown, Orange, Pink,  Purple (Express), Green</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>151 N. Wabash Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40200</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.626222,41.884435,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>54th/Cermak</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>580</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>54th/Cermak</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Pink</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>2134 S. 54th Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40580</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.756692,41.851773,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pulaski-Midway</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>960</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Pulaski-Midway</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Orange Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>5106 S. Pulaski Road</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40960</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.724450,41.799888,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Conservatory-Central Park</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1670</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Conservatory-Central Park</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Green Line (Lake)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>3631 W. Lake Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41670</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.716523,41.884904,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Belmont-O'Hare</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>60</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Belmont-O'Hare</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Blue Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>3355 W. Belmont Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40060</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.712359,41.938132,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kimball</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1290</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Kimball</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Brown Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>4755-57 N. Kimball Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41290</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.713142,41.967928,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jarvis</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1190</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Jarvis</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Red Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>1523 W. Jarvis Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41190</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.669092,42.015876,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ashland/63rd</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>290</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Ashland/63rd</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Green Line (Englewood)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>6315 S. Ashland Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40290</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.663845,41.778953,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>18th</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>830</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>18th</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Pink</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>1710 W. 18th Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40830</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.669160,41.857908,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Morgan</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1510</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Morgan</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Green (Lake), Pink</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>1000 W Morgan</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41510</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.652128,41.885577,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Clinton-Lake</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1160</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Clinton-Lake</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Green (Lake), Pink</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>540 W. Lake Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41160</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.641771,41.885703,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grand/Milwaukee</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>490</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Grand/Milwaukee</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Blue Line (O'Hare)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>502 N. Milwaukee Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40490</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.647578,41.891189,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Berwyn</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>340</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Berwyn</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Red Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>1121 W. Berwyn Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40340</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.658668,41.977984,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lawrence</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>770</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Lawrence</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Red Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>1117 W. Lawrence Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40770</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.658493,41.969139,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Loyola</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1300</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Loyola</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Red Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>1200 W. Loyola Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41300</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.661061,42.001073,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Morse</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>100</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Morse</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Red Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>1358 W. Morse Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40100</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.665909,42.008362,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>69th</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>990</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>69th</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Red Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>15 W. 69th Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40990</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.625809,41.768368,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>43rd</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1270</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>43rd</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Green Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>314 E. 43rd Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41270</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.619036,41.816463,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>47th-South Elevated</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1080</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>47th-South Elevated</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Green Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>314 E. 47th Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41080</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.618826,41.809209,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Library</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>850</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Library</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Brown, Orange, Pink, Purple (Express)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>26 W. Van Buren Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40850</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.628209,41.876908,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Harrison</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1490</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Harrison</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Red Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>608 S. State Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41490</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.627479,41.874039,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>O'Hare Airport</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>890</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>O'Hare Airport</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Blue Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>1000 O'Hare Drive</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40890</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.901848,41.978877,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Forest Park</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>390</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Forest Park</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Blue Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>711 S. Des Plaines Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40390</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.817318,41.874257,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oak Park-Lake</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1350</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Oak Park-Lake</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Green Line (Lake)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>100 S. Oak Park Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41350</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.793783,41.886988,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Laramie</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>700</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Laramie</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Green Line (Lake)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>5148 W. Lake Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40700</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.754986,41.887163,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kedzie-Midway</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1150</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Kedzie-Midway</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Orange Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>4900 S. Kedzie Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41150</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.704321,41.804348,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Damen</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>210</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Damen</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Pink</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>2010 S. Damen Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40210</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.675974,41.854515,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Western-Congress</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>220</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Western-Congress</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Blue Line (Congress)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>430 S. Western Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40220</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.688435,41.875530,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Polk</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1030</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Polk</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Pink</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>1713 W. Polk Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41030</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.669543,41.871563,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Damen/Milwaukee</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>590</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Damen/Milwaukee</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Blue Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>1588 N. Damen Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40590</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.677437,41.909744,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>California/Milwaukee</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>570</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>California/Milwaukee</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Blue Line (O'Hare)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>2211 N. California Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40570</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.696890,41.921939,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Paulina</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1310</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Paulina</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Brown Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>3411 N. Paulina Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41310</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.670884,41.943709,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dempster</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>690</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Dempster</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Purple Line, Evanston Express</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>1316 N. Sherman Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40690</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.681602,42.041655,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>35-Bronzeville-IIT</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1120</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>35-Bronzeville-IIT</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Green Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>16 E. 35th Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41120</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.625881,41.831678,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Madison/Wabash</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>640</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Madison/Wabash</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Brown, Orange, Pink,  Purple (Express), Green</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>2 N. Wabash Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40640</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.626156,41.882031,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Clark/Division</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>630</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Clark/Division</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Red Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>1200 N. Clark Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40630</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.631412,41.903920,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cumberland</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>230</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Cumberland</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Blue Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>5800 N. Cumberland Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40230</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.838026,41.984294,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Harlem-Lake</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>20</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Harlem-Lake</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Green Line (Lake)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>1 S. Harlem Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40020</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.803176,41.886848,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Harlem-O'Hare</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>750</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Harlem-O'Hare</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Blue Line (O'Hare)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>5550 N. Harlem Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40750</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.808895,41.982323,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oak Park-Congress</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>180</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Oak Park-Congress</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Blue Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>950 S. Oak Park Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40180</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.791602,41.872108,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ridgeland</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>610</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Ridgeland</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Green Line (Lake)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>36 N. Ridgeland Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40610</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.783661,41.887159,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Austin-Lake</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1260</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Austin-Lake</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Green Line (Lake)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>351 N. Austin Blvd</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41260</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.774135,41.887293,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Central-Lake</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>280</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Central-Lake</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Green Line (Lake)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>350 N. Central Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40280</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.765650,41.887389,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kostner</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>600</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Kostner</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Pink</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>2019 S. Kostner Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40600</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.733264,41.853751,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pulaski-Congress</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>920</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Pulaski-Congress</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Blue Line (Congress)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>530 S. Pulaski Road</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40920</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.725625,41.873889,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Western/Milwaukee</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>670</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Western/Milwaukee</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Blue Line (O'Hare)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>1909-11 N. Western Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40670</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.687364,41.916157,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rockwell</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1010</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Rockwell</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Brown Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>4648 N. Rockwell Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41010</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.694111,41.966210,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Damen-Ravenswood</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>90</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Damen-Ravenswood</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Brown Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>4643-47 N. Damen Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40090</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.678635,41.966411,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Davis</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>50</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Davis</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Purple Line, Evanston Express</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>1612 N. Benson Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40050</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.683543,42.047710,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ashland-Lake</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>170</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Ashland-Lake</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Green (Lake), Pink</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>1601 W. Lake Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40170</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.666951,41.885311,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Division/Milwaukee</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>320</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Division/Milwaukee</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Blue Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>1200 N. Milwaukee Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40320</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.666496,41.903355,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Diversey</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>530</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Diversey</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Brown, Purple (Express)</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>940-44 W. Diversey Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40530</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.653131,41.932732,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bryn Mawr</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>1380</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Bryn Mawr</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Red Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>1119 W. Bryn Mawr Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>41380</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.658840,41.983504,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jackson/State</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>560</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Jackson/State</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Red Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>230 S. State</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40560</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.627596,41.878153,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Adams/Wabash</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>680</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Adams/Wabash</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Brown, Orange, Pink,  Purple (Express), Green</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>201-23 S. Wabash Avenue</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>Not ADA  Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40680</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.626098,41.879510,0.000000</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grand/State</name>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format">
+<body leftmargin="0" topmargin="0" bottommargin="0" rightmargin="0">
+<font face="Arial">
+<table border="1" width="300" cellpadding="5" cellspacing="0">
+<tr bgcolor="#9CBCE2">
+<th width="50&#37;" align="left">Field Name</th>
+<th width="50&#37;" align="left">Field Value</th>
+</tr>
+<tr>
+<td>STATION ID</td>
+<td>330</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>NAME</td>
+<td>Grand/State</td>
+</tr>
+<tr>
+<td>RAIL LINE</td>
+<td>Red Line</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>ADDRESS</td>
+<td>521 N. State Street</td>
+</tr>
+<tr>
+<td>ADA</td>
+<td>ADA Accessible</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>PARK AND RIDE</td>
+<td>No</td>
+</tr>
+<tr>
+<td>Shape</td>
+<td>Point</td>
+</tr>
+<tr bgcolor="#D4E4F3">
+<td>GTFS</td>
+<td>40330</td>
+</tr>
+</table>
+</font>
+</body>
+</html>
+]]></description>
+      <Point>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates> -87.628021,41.891665,0.000000</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Style id="IconStyle00">
+    <IconStyle>
+      <Icon><href>static/img/000000.png</href></Icon>
+      <scale>1.000000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+  </Style>
+</Document>
+</kml>

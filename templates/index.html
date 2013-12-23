@@ -1,0 +1,99 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Toy Trains</title>
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css" />
+    <link rel="stylesheet" href="//media.apps.chicagotribune.com/bootstrap/v2.2.2r1/css/bootstrap.min.css" type="text/css"></link>
+    <link rel="stylesheet" href="/toytrains/static/css/style.css">
+
+    <script src="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.5.2/underscore-min.js"></script>
+    <script type="text/javascript" src="http://maps.stamen.com/js/tile.stamen.js?v1.2.3"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/accounting.js/0.3.2/accounting.min.js"></script>
+    <script src="/toytrains/static/js/AnimatedMarker.min.js"></script>
+    <script src="/toytrains/static/js/kml.js"></script>
+    <script src="/toytrains/static/js/trains.js"></script>
+  </head>
+  <body>
+    <div class="container">
+        <div id="map">
+        </div>
+        <div id="hood_title">
+            <button type="button" class="btn btn-primary" id="start-tour">Start Tour</button>
+            <div id="hood_data">
+            </div>
+        </div>
+        <div id="train_positions">
+        </div>
+    </div>
+  </body>
+  <script id="ca_data_template" type="text/html">
+    <p><% if (CA['Below Poverty Level'] > 19) { %><span class="stat_high"><% } else { %><span class="stat_low"><% } %><%= CA['Below Poverty Level'] %>%</span> households below poverty level <i>(city avg. 19%)</i></p>
+    <p><% if (CA['Per Capita Income'] > 27940) { %><span class="stat_low"><% } else { %><span class="stat_high"><% } %><%= accounting.formatMoney(parseInt(CA['Per Capita Income'])) %></span> per capita income in 2011 dollars <i>(city avg. $27,940)</i></p>
+    <p><% if (CA['Unemployment'] > 12) { %><span class="stat_high"><% } else { %><span class="stat_low"><% } %><%= CA['Unemployment'] %>%</span> unemployment rate <i>(city avg. 12%)</i></p>
+    <p>Economic data from 2007-2011, via the <a href="https://data.cityofchicago.org/Health-Human-Services/Public-Health-Statistics-Selected-public-health-in/iqnk-2tcu">City of Chicago Data Portal</a></p>
+  </script>
+  <script id="loading_template" type="text/html">
+    <p>Click on the Start Tour button to visit random community areas and see slightly out-of-date economic data for them.</p>
+    <p>In a few seconds, the CTA will begin providing updated train position information, and the map will update.</p>
+    <p>The trains lack GPS, so the data will be provided from the CTA's rail infrastructure.</p>
+    <p>It's usually pretty accurate, but marker positions probably lag real train positions by around 15-20 seconds.</p> 
+  </script>
+ <script id="template_PrintersRow" type="text/html">
+    <p>I grew up across the street from Printer's Row. It was strange to live there in the 80s - not many families did, no other kids that I remember, not many typical amenities for a child. But it was just a few blocks away from Grant Park and the lake, always bustling with activity, concrete and steel blasting out of the ground all around. Energy, excitement.</p>
+    <p>There was also the Printer's Row Book Fair - still is - and the orgy of books that took over Dearborn was the unofficial beginning of summer for me. When the Book Fair wasn't in session, Dad and I would head down the street to Sandmeyer's, a bookstore that lasted forever - it's still there - but never had many customers that I remember. Creaky wood floors, clean and tidy but compact and piled high with books like the best literary temples. A bookstore worthy of living in Printer's Row.</p>
+    <p>For a decade I took viola lessons down the street at the old Dearborn Station. It was torture, and I was a terrible student; the walks down the street to and fro still live on in my unconscious, and their memory still reliably produces a nervous, guilty shudder.</p>
+  </script>
+  <script id="template_LoganSquare" type="text/html">
+    <p>My first apartment after college was in Logan Square at the corner of Fullerton and Talman, with 2 of my best friends, Neil and Fred. We took to calling it the Opium Den, because there was perpetually a dim haze of pot smoke and sketchy-looking weed paraphernalia laying around, conspicuously.</p>
+    <p>I'm not sure how long after we moved in it took me to notice that my name had been carved into the stone archway of the building immediately next door to ours. ABE, mysteriously, etched in rock dozens of years before I ever moved in one house down.</p>
+    <p>It turns out that once upon a time, the neighborhood belonged to the Belgians. In an effort to establish a bridge between the Flemish and the Walloons, a Belgian social club had been established sometime in the 1920s. The All Belgians are Equal club - ABE - is now a creepy, Scooby Doo-esque house owned by an old man who may or may not still be alive, but who haunts it either way.
+  </script>
+  <script id="template_LittleItalyUIC" type="text/html">
+    <p>I went to grade school and high school near here, lived here for a while after 7th grade, took French lessons from an appropriately smoking-hot French Lit graduate student here as a teenager, and had my first kiss here.</p>
+    <p>I'd been pursuing Chloe for the better part of my junior year, ever since she joined the debate team that constituted a hefty chunk of my high school social life.</p>
+    <p>She'd already made it clear she wasn't interested in me, but we still hung out often enough for an attraction, a something at least, to develop anyway. One day in late spring of that junior year, we got on the Blue line at Racine and, with a few friends mysteriously in tow, had some sort of conversation I barely remember that ended with us deciding to go out together.</p>
+    <p>One or two dates later, we got off the then-Blue line at Polk and I walked her home in the rain. We kissed outside her house and I'll never forget the walk back to the train as the water came down and I felt more excitedly, naively alive and happy than I ever remember.</p>
+  </script>
+  <script id="template_SouthShore" type="text/html">
+    <p>Of South Shore, I have no particular memories - I never lived there and rarely ever visited, though my dad grew up there and still identifies with it very strongly.</p>
+    <p>But directly adjacent to South Shore lies Oakwoods Cemetery, where the two combatants in the 1983 Chicago Mayoral election lie mere meters apart, having died within weeks of each other. My grandfather, Bernie, and my grandmother, Audrey are buried there along with Bernie's parents and several other relatives, while Harold Washington's tomb lies on the graveyard road one takes to reach Bernie and Aud.</p>
+    <p>The funeral occurred when I was four, but I still remember it, oddly from a bottom-up perspective, as though I were looking up from inside the grave at the mourners all around.</p>
+    <p>On trips to Oakwoods, I almost always choke up. We place some stones on the family graves, pay our respects, fill the grandparents in on the goings-on, say a prayer or two, and spend some time with them quietly. There's something about the deceased still having a physical place in the world that I find immensely appealing. I want to be buried somewhere; maybe Oakwoods, maybe not, but I want a final resting place besides the bottom of an urn.</p>
+  </script>
+  <script id="template_MorganPark" type="text/html">
+    <p>In high school, our most bitter rivals - at least from the debate team's standpoint - were the kids from Morgan Park. Looking back on it now, I almost want to root for them instead - if our league had been a Disney movie, they would have been the scrappy, hardworking underdogs and we, the overprivileged, lazy, arrogant smartasses.</p>
+    <p>These days, the Morgan Park debate team is less formidable. In the early years of the Chicago Debate League, they were, along with Whitney Young, the undisputed top team in the city. I suspect the proliferation of selective-enrollment schools has changed all that; the Golden Generation that went to MP - many of whom went on to debate at top-tier college programs - would in 2013 probably be scattered, going to Jones, Payton or one of the nine International Baccalaureate programs across the South Side.</p>
+  </script>
+  <script id="template_OHare" type="text/html">
+    <p>One of my fondest memories growing up is something that's impossible to do today. My dad and I would get on the Blue line and ride it all the way out to O'Hare, and then go up to the gates and watch the planes take off and land.</p>
+    <p>I still love flying, and I'm as amazed now as I was then that such massive, lumbering machines can somehow jump into the air and stay aloft. Watching it happen from a window a few hundred yards away is magic, or at least it was to this eight-year-old.</p>
+    <p>It makes me sad to think that because of an overreaction to 9/11, parents can't take their kids to see that anymore. I've always loved engineering and tinkering, building spaceships out of legos and websites out of code, and I know that those long train trips to see those incredible physical specimens defy intuition is a big part of why.</p>
+  </script>
+  <script id="template_Loop" type="text/html">
+    <p>From about 1985 to 1993, my parents and I lived at Congress and Dearborn. While just a block south of the actual Loop, living in such close proximity to that cluster of skyscrapers meant that they were an indelible part of my childhood. Whether it was going with mom to my first sushi place - a lunch spot for office workers with a sweet conveyor belt around the sushi bar (my favorite was futo maki) - or my grandfather bringing over bagels for weekday lunches from a deli near his office - or my mom taking me to Comic Relief (Comic Book Wednesdays! I could get one comic book, usually something Disney) on the first floor of a building across from the Cultural Center, at Michigan and Madison - the geography of the Loop formed and shaped my understanding of the city and the world.</p>
+    <p>One challenge I had was remembering which street - Monroe, Madison or Washington - the comic book store was on, so one day Dad came up with a helpful pnemonic. Comic Relief was on Madison, so "If you're mad, my son, you must seek comic relief." That's still how I remember which street is the origin - 0 North, 0 South.</p>
+  </script>
+  <script id="template_MuseumCampus" type="text/html">
+    <p>As a kid growing up in the Loop, escape from the steel and concrete forest was a trip to Grant Park or the Lake. In the summer, we went to the 12th Street beach, directly adjacent to Meigs Field. Despite my eventual love for airplanes of any description, I distinctly remember being terrified by the taking off and landing cropdusters and small private jets that used to inhabit that airstrip.</p>
+    <p>Mom would take me to the beach, and we'd hang out there for blissful hours, but every time one of those small planes would roar into view I'd freak out and run for cover. They made a really loud buzzing sound when they came in for a landing, and they got so close to the water I probably figured they were coming for me, like something out of North By Northwest on the lake.</p>
+    <p>These days, I'm a bit nostalgic for Meigs. The morning I woke up and discovered that Mayor Daley had secretly bulldozed giant Xs on the runways in the dead of night, I remember feeling conflicted. It was basically an airfield for the 1%, and I certainly never used it, but getting scared by the low-flying planes is now a cherished memory from my childhood.</p>
+  </script>
+  <script id="template_AlbanyPark" type="text/html">
+    <p>In 1912, a red-brick house went up at 4444 N. Richmond, in what was then the leafy, working-class neighborhood of Ravenswood Manor (which today is part of Albany Park, I suppose.) 50 years later, Edward and Eve Paluch, seeking a place to house themselves, their six children (including my mom, Amy), Eve's brother and other relatives who passed through, bought the place and moved in.</p>
+    <p>Through the years, no address - no physical fixture of any kind - has been more of a constant in their lives and in my life. My parents were married in that house. When they moved back from California with newborn me in tow, they lived there for several months. Growing up, we'd visit that house every Sunday, and as much of the family as was in town would gather for brunch. On Thanksgivings, we'd have dinner there and stage the annual Turkey Bowl on the front lawn. I lived there in the summers during college. After my parents divorced, my mom and her partner Sheldon lived there for a while. When Irina and I moved back to Chicago from California, we lived there - in the exact same room my parents used when they moved back to Chicago from California.</p>
+    <p>For almost two decades, as everything else in my life changed, I've only had one key always present on my keyring: 4444.</p>
+  </script>
+  <script id="template_HydePark" type="text/html">
+    <p>Sometime around 1970, my mom - then a student at the U of C - met my dad - then a Hyde Park townie - at a neighborhood party somewhere near where we now live. Mom had come to the University after growing up on the other side of town, pretty far on the North Side, and the day she arrived with her mom was the day after the Cook County State's Attorney had raided the home of Black Panther leader Fred Hampton, firing a barrage of over 80 shots that left Hampton and fellow Panther Mark Clark dead. The shooting caused an uproar across the city, and into that maelstrom walked my diminutive-yet-tough mother and her equally-diminutive-yet-tough mom.</p>
+    <p>For a chunk of his childhood, Dad lived at 56th and Everett. My stepfather, Sheldon, grew up not too far away, at 52nd and Kimbark. Hyde Park loomed large during my childhood; we never lived there, but 57th Street Books became The Bookstore With Toys in my childhood argot, and trips there, to the Medici and the Seminary Co-Op were a staple.</p>
+  </script>
+  <script id="template_GrantPark" type="text/html">
+    <p></p>
+  </script>
+  <script id="template_EastVillage" type="text/html">
+    <p></p>
+  </script> 
+</html>

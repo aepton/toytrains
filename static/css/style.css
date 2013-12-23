@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #444;
+}
+
+#map {
+  height: 1200px;
+}
+
+#hood_title {
+  top: 0px;
+  position: fixed;
+  right: 0px;
+  width: 264px;
+  padding-left: 18px;
+  padding-right: 18px;
+  z-index: 10;
+  background-color: rgba(255, 255, 255, 0.95);*/
+}
+
+#train_positions {
+  bottom: 0px;
+  position: fixed;
+  left: 0px;
+  width: 269px;
+  padding-left: 18px;
+  padding-right: 18px;
+  z-index: 10;
+  background-color: rgba(255, 255, 255, 0.95);
+}
+
+#hood_title > h1 {
+  color: black;
+  font-size: 2em;
+  z-index: 10;
+}
+
+.stat_high {
+  text-decoration: underline;
+  color: purple;
+}
+
+.stat_low {
+  text-decoration: underline;
+  color: green;
+}
+
+.container {
+  margin: 0;
+}
