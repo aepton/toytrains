@@ -57,9 +57,8 @@ def train_data():
     cta_key = 'e01b6e395d7b480aae1f55166186ac32&'
     routes = 'red,blue,brn,g,org,p,pink,y'
     api_url = 'lapi.transitchicago.com/api/1.0/ttpositions.aspx'
-    local_file = (
-        '/Users/abrahamepton/Tribune/toytrains/static/json/train_data.json')
-    s3_key = 'toytrains/static/json/train_data.json'
+    local_file = ('/home/ubuntu/toytrains/static/json/train_data.json')
+    s3_key = 'static/json/train_data.json'
     response = urllib2.urlopen('http://%s?key=%srt=%s' % (
         api_url, cta_key, routes))
     data = xmltodict.parse(response.read())
@@ -72,7 +71,7 @@ def train_data():
 
 def _write_string_to_s3(key_path, str):
     conn = boto.connect_s3()
-    bucket = conn.get_bucket('apps.beta.tribapps.com')
+    bucket = conn.get_bucket('el.epton.org')
     k = Key(bucket)
     k.key = key_path
     k.set_contents_from_file(StringIO.StringIO(str))
